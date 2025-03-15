@@ -8,7 +8,7 @@ export default function EmptyLegs() {
             <h2 className="text-3xl md:text-4xl font-bold mb-4 w-2/3 leading-[1.2]">
               Great Deals on Empty Legs with JetSteals™
             </h2>
-            <p className="text-gray-400 mb-6 w-[80%]">
+            <p className="text-gray-400 mb-6 w-fit">
               Empty Legs offer great deals on private jet flights if you happen to be going where we’re flying that day.
               It’s also a great way to try private jet travel at a much lower cost than normal – perhaps getting a group of 
               friends together for a truly exceptional travel experience. Download the JetSteals™ app to get notifications 
