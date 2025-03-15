@@ -37,7 +37,7 @@ export default function Hero() {
         <motion.img
           src="/airplane.png" // Place your airplane image inside public/ folder
           alt="Airplane"
-          className="absolute top-16 left-8 md:top-20 md:right-20 w-3/5 md:w-1/3"
+          className="absolute top-16 right-24 md:top-20 md:right-20 w-3/5 md:w-1/3"
           animate={{
             y: [-10, 10, -10], // Moves up and down
             x: [10, -10, 10], // Moves left and right
