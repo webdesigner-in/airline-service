@@ -17,12 +17,12 @@ export default function Hero() {
             <span className="text-blue-400">Our Elite Fleet.</span>
           </h1>
   
-          <p className="mt-4 text-sm text-gray-200 w-[50ch]">
+          <p className="mt-4 text-sm text-gray-200 md:w-[50ch]">
             Rent top-of-the-line helicopters and airplanes for Business, Leisure, and Emergency Services.
           </p>
   
           {/* CTA Buttons */}
-          <div className="mt-6 flex flex-col sm:flex-row gap-4">
+          <div className="mt-6 flex flex-col w-2/3 md:w-full sm:flex-row gap-4">
             <button className="bg-white text-black px-6 text-sm py-2 rounded-lg font-semibold hover:bg-gray-300">
               Book Ride
             </button>
@@ -53,3 +53,4 @@ export default function Hero() {
       </section>
     );
   }
+  
